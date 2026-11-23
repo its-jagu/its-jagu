@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jagrutii Telore
-- 🌱 I’m currently Pursuing BSC in Computer Science 
+- 🌱 I’m currently Pursuing MSC in Computer science from SIES
   
 
 <!---
